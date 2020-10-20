@@ -58,6 +58,6 @@ getNumberOfIslands(binaryMatrix);
 
 > **Space Complexity**: Worst case O(M×N), in case that the matrix is filled with lands where DFS goes by M×N deep.
 
-[CODE](https://github.com/PhillipeAlves/algorithm_number_of_islands/blob/master/index.js)
+## Links
 
-[TEST](https://github.com/PhillipeAlves/algorithm_number_of_islands/blob/master/test.js)
+> **CODE**: [_here_](https://github.com/PhillipeAlves/algorithm_number_of_islands/blob/master/index.js) || **TEST**: [_here_](https://github.com/PhillipeAlves/algorithm_number_of_islands/blob/master/test.js)
