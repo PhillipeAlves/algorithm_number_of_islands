@@ -57,3 +57,7 @@ getNumberOfIslands(binaryMatrix);
 > **Time Complexity**: Each cell in binaryMatrix is visited a constant number of times. Once during the iteration and up to 4 times during an island expansion. Therefore, the time complexity is linear in the size of the input, i.e. O(N⋅M).
 
 > **Space Complexity**: Worst case O(M×N), in case that the matrix is filled with lands where DFS goes by M×N deep.
+
+[CODE](https://github.com/PhillipeAlves/algorithm_number_of_islands/blob/master/index.js)
+
+[TEST](https://github.com/PhillipeAlves/algorithm_number_of_islands/blob/master/test.js)
